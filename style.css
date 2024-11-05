@@ -1,0 +1,29 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.bg{
+  background-color: beige;
+  margin: 0px;
+  width: 100%;
+  height: auto;
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.texto{
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 660px;
+}
+.texto p{
+  font-size: 1.2rem;
+  margin-top: -10px;
+}
+.img{
+  width: 600px;
+}
